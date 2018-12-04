@@ -1,0 +1,41 @@
+INFO main org.apache.hadoop.conf.Configuration.deprecation - session.id is deprecated. Instead, use dfs.metrics.session-id
+ INFO main org.apache.hadoop.metrics.jvm.JvmMetrics - Initializing JVM Metrics with processName=JobTracker, sessionId=
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+ INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 0
+ INFO main org.apache.hadoop.mapreduce.JobSubmitter - Cleaning up the staging area file:/tmp/hadoop-jacki/mapred/staging/jacki1828739328/.staging/job_local1828739328_0001
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki1828739328\.staging\job_local1828739328_0001\.job.split.crc]: it still exists.
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki1828739328\.staging\job_local1828739328_0001\job.split]: it still exists.
+ INFO main org.apache.hadoop.conf.Configuration.deprecation - session.id is deprecated. Instead, use dfs.metrics.session-id
+ INFO main org.apache.hadoop.metrics.jvm.JvmMetrics - Initializing JVM Metrics with processName=JobTracker, sessionId=
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+ INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 0
+ INFO main org.apache.hadoop.mapreduce.JobSubmitter - Cleaning up the staging area file:/tmp/hadoop-jacki/mapred/staging/jacki856911393/.staging/job_local856911393_0001
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki856911393\.staging\job_local856911393_0001\.job.split.crc]: it still exists.
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki856911393\.staging\job_local856911393_0001\job.split]: it still exists.
+ INFO main org.apache.hadoop.conf.Configuration.deprecation - session.id is deprecated. Instead, use dfs.metrics.session-id
+ INFO main org.apache.hadoop.metrics.jvm.JvmMetrics - Initializing JVM Metrics with processName=JobTracker, sessionId=
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+ INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 0
+ INFO main org.apache.hadoop.mapreduce.JobSubmitter - Cleaning up the staging area file:/tmp/hadoop-jacki/mapred/staging/jacki1653522713/.staging/job_local1653522713_0001
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki1653522713\.staging\job_local1653522713_0001\.job.split.crc]: it still exists.
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki1653522713\.staging\job_local1653522713_0001\job.split]: it still exists.
+ INFO main org.apache.hadoop.conf.Configuration.deprecation - session.id is deprecated. Instead, use dfs.metrics.session-id
+ INFO main org.apache.hadoop.metrics.jvm.JvmMetrics - Initializing JVM Metrics with processName=JobTracker, sessionId=
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+ INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 3
+ INFO main org.apache.hadoop.mapreduce.JobSubmitter - Cleaning up the staging area file:/tmp/hadoop-jacki/mapred/staging/jacki1369414593/.staging/job_local1369414593_0001
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki1369414593\.staging\job_local1369414593_0001\.job.split.crc]: it still exists.
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki1369414593\.staging\job_local1369414593_0001\job.split]: it still exists.
+ INFO main org.apache.hadoop.conf.Configuration.deprecation - session.id is deprecated. Instead, use dfs.metrics.session-id
+ INFO main org.apache.hadoop.metrics.jvm.JvmMetrics - Initializing JVM Metrics with processName=JobTracker, sessionId=
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+ WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+ INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input paths to process : 3
+ INFO main org.apache.hadoop.mapreduce.JobSubmitter - Cleaning up the staging area file:/tmp/hadoop-jacki/mapred/staging/jacki1589729833/.staging/job_local1589729833_0001
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki1589729833\.staging\job_local1589729833_0001\.job.split.crc]: it still exists.
+ WARN main org.apache.hadoop.fs.FileUtil - Failed to delete file or dir [D:\tmp\hadoop-jacki\mapred\staging\jacki1589729833\.staging\job_local1589729833_0001\job.split]: it still exists.
+ 
